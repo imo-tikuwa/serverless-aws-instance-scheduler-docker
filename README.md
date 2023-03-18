@@ -102,7 +102,5 @@ $ make sls-deploy
  - Dockerfile内のコードにより以下の3リポジトリをコンテナ内にクローンします
    - https://github.com/imo-tikuwa/serverless-aws-instance-scheduler-app-dist
      - Nuxt3で作ったアプリケーションのnode-server用のビルドを行ったファイル一式を管理しています
-   - https://github.com/imo-tikuwa/serverless-aws-instance-scheduler-opt-submodule
-     - Serverless Frameworkのserverless-layersプラグインでレイヤーとしてデプロイされるファイル一式を管理しています
    - https://github.com/imo-tikuwa/serverless-aws-instance-scheduler-serverless-submodule
      - Serverless Frameworkのコード一式を管理しています
